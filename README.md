@@ -4,9 +4,7 @@
 ============================================================
 
 
-=====================================================
 #Data format:
-=====================================================
 
 ##20NG.data.zip: 20 newsgroups dataset (http://qwone.com/~jason/20Newsgroups/)
 Format:
@@ -38,13 +36,11 @@ Format:
 Format:
   same as 20NG.hin.zip
 
-[Usage]:
+##Usage:
   Unzip the according dataset.
 
 
-=====================================================
 #Construction details:
-=====================================================
 
   Please refer to the following papers.
 
