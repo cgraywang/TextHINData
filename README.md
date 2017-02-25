@@ -6,35 +6,39 @@
 
 #Data format:
 
-##20NG.data.zip: 20 newsgroups dataset (http://qwone.com/~jason/20Newsgroups/)
+##20NG.data.zip: 20 newsgroups dataset
 Format:
-  documentID ||| category
-  content
+        documentID ||| category
+        content
+More:
+http://qwone.com/~jason/20Newsgroups/
 
 ##20NG.hin.zip: 20 newsgroups HIN dataset based on semantic parsing from Freebase
 Format:
-  documentID ||| category
-  (Entities and relations (with the type information) parsed from each sentence of the document)
-  ----sentence result: sentence
-  (Entities)
-      entityID#1 entityType#1 entity#1
-	    ...
-	    ...
-	    entityID#n entityType#n entity#n
-  (Relations)
-  (indicator=1 (relation from the document), indicator=2 (relation from Freebase))
-	    subjectEntityID    relation    objectEntityID    indicator
-	    ...
-	    ...
-	    ...
+        documentID ||| category
+        (Entities and relations (with the type information) parsed from each sentence of the document)
+        ----sentence result: sentence
+        (Entities)
+        entityID#1 entityType#1 entity#1
+        ...
+        ...
+        entityID#n entityType#n entity#n
+        (Relations)
+        (indicator=1 (relation from the document), indicator=2 (relation from Freebase))
+        subjectEntityID    relation    objectEntityID    indicator
+        ...
+        ...
+        ...
 
-##GCAT.data.zip: RCV1 GCAT category dataset (http://www.daviddlewis.com/resources/testcollections/rcv1/)
+##GCAT.data.zip: RCV1 GCAT category dataset
 Format:
-  same as 20NG.data.zip
+        same as 20NG.data.zip
+More:
+http://www.daviddlewis.com/resources/testcollections/rcv1/
 
 ##GCAT.hin.zip: RCV1 GCAT category HIN dataset based on semantic parsing from Freebase
 Format:
-  same as 20NG.hin.zip
+        same as 20NG.hin.zip
 
 ##Usage:
   Unzip the according dataset.
