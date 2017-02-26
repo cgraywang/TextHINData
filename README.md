@@ -6,16 +6,12 @@
 
 #Data format:
 
-##20NG.data.zip: 20 newsgroups dataset
+##20NG.data.zip: [20 newsgroups dataset](http://qwone.com/~jason/20Newsgroups/)
 
 Format:
         
         documentID ||| category
         content
-
-More:
-
-http://qwone.com/~jason/20Newsgroups/
 
 ##20NG.hin.zip: 20 newsgroups HIN dataset based on semantic parsing from Freebase
 
@@ -49,15 +45,11 @@ Format:
         
         ...
 
-##GCAT.data.zip: RCV1 GCAT category dataset
+##GCAT.data.zip: [RCV1 GCAT category dataset](http://www.daviddlewis.com/resources/testcollections/rcv1/)
 
 Format:
         
         same as 20NG.data.zip
-
-More:
-
-http://www.daviddlewis.com/resources/testcollections/rcv1/
 
 ##GCAT.hin.zip: RCV1 GCAT category HIN dataset based on semantic parsing from Freebase
 
@@ -77,7 +69,6 @@ Format:
 ##References:
 
         @inproceedings{wang2015world,
-  
         author = {Wang, Chenguang and Song, Yangqiu and El-Kishky, Ahmed and Roth, Dan and Zhang, Ming and Han, Jiawei},
   
         title = {Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks},
