@@ -70,27 +70,16 @@ Format:
 
         @inproceedings{wang2015world,
         author = {Wang, Chenguang and Song, Yangqiu and El-Kishky, Ahmed and Roth, Dan and Zhang, Ming and Han, Jiawei},
-  
         title = {Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks},
-  
         booktitle = {KDD},
-  
         pages = {1215--1224},
-  
         year = {2015}
-
         }
 
         @inproceedings{wang2016text,
-  
         title={Text Classification with Heterogeneous Information Network Kernels},
-  
         author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Zhang, Ming and Han, Jiawei},
-  
         booktitle={AAAI},
-  
         pages={2130--2136},
-  
         year={2016}
-
         }
