@@ -1,6 +1,6 @@
 # TextHINData
 ============================================================
-#Text based heterogeneous information network (HIN) datasets
+#Knowledge Graph Augmented Text as Heterogeneous Information Network (HIN) datasets
 ============================================================
 
 
