@@ -1,19 +1,17 @@
 # TextHINData
-============================================================
-#Knowledge Graph Augmented Text as Heterogeneous Information Network (HIN) datasets
-============================================================
+# Knowledge Graph Augmented Text as Heterogeneous Information Network (HIN) datasets
 
 
-#Data format:
+# Data format:
 
-##20NG.data.zip: [20 newsgroups dataset](http://qwone.com/~jason/20Newsgroups/)
+## 20NG.data.zip: [20 newsgroups dataset](http://qwone.com/~jason/20Newsgroups/)
 
 Format:
         
         documentID ||| category
         content
 
-##20NG.hin.zip: 20 newsgroups HIN dataset based on semantic parsing from Freebase
+## 20NG.hin.zip: 20 newsgroups HIN dataset based on semantic parsing from Freebase
 
 Format:
         
@@ -45,28 +43,28 @@ Format:
         
         ...
 
-##GCAT.data.zip: [RCV1 GCAT category dataset](http://www.daviddlewis.com/resources/testcollections/rcv1/)
+## GCAT.data.zip: [RCV1 GCAT category dataset](http://www.daviddlewis.com/resources/testcollections/rcv1/)
 
 Format:
         
         same as 20NG.data.zip
 
-##GCAT.hin.zip: RCV1 GCAT category HIN dataset based on semantic parsing from Freebase
+## GCAT.hin.zip: RCV1 GCAT category HIN dataset based on semantic parsing from Freebase
 
 Format:
         
         same as 20NG.hin.zip
 
-##Usage:
+## Usage:
   
   Unzip the according dataset.
 
 
-#Construction details:
+# Construction details:
 
   Please refer to the following papers.
 
-##References:
+## References:
 
         @inproceedings{wang2015world,
         author = {Wang, Chenguang and Song, Yangqiu and El-Kishky, Ahmed and Roth, Dan and Zhang, Ming and Han, Jiawei},
