@@ -63,6 +63,9 @@ Format:
 # Construction details:
 
   Please refer to the following papers.
+  
+# How to Use the Text based Heterogeneous Information Network Datasets:
+We released our source code for the "Knowsim: A document similarity measure on structured heterogeneous information networks" [code](https://github.com/cgraywang/TextHINData). Other source code would be released.
 
 ## References:
 
