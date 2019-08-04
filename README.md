@@ -66,6 +66,23 @@ Format:
 
 ## References:
 
+        @inproceedings{wang2016text,
+        title={Text Classification with Heterogeneous Information Network Kernels},
+        author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Zhang, Ming and Han, Jiawei},
+        booktitle={AAAI},
+        pages={2130--2136},
+        year={2016}
+        }
+
+        @inproceedings{wang2015knowsim,
+        title={Knowsim: A document similarity measure on structured heterogeneous information networks},
+        author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Zhang, Ming and Han, Jiawei},
+        booktitle={2015 IEEE International Conference on Data Mining},
+        pages={1015--1020},
+        year={2015},
+        organization={IEEE}
+        }
+
         @inproceedings{wang2015world,
         author = {Wang, Chenguang and Song, Yangqiu and El-Kishky, Ahmed and Roth, Dan and Zhang, Ming and Han, Jiawei},
         title = {Incorporating World Knowledge to Document Clustering via Heterogeneous Information Networks},
@@ -74,10 +91,3 @@ Format:
         year = {2015}
         }
 
-        @inproceedings{wang2016text,
-        title={Text Classification with Heterogeneous Information Network Kernels},
-        author={Wang, Chenguang and Song, Yangqiu and Li, Haoran and Zhang, Ming and Han, Jiawei},
-        booktitle={AAAI},
-        pages={2130--2136},
-        year={2016}
-        }
