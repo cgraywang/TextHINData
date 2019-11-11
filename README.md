@@ -7,7 +7,7 @@ Format:
         documentID ||| category
         content
 
-## 20NG.hin.zip: 20 newsgroups HIN dataset based on semantic parsing from Freebase
+## 20NG.hin.zip: 20 newsgroups to network dataset
 
 Format:
         
@@ -45,7 +45,7 @@ Format:
         
         same as 20NG.data.zip
 
-## GCAT.hin.zip: RCV1 GCAT category HIN dataset based on semantic parsing from Freebase
+## GCAT.hin.zip: RCV1 GCAT category to network dataset
 
 Format:
         
