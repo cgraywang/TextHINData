@@ -1,6 +1,4 @@
-# TextHINData
-# Knowledge Graph Augmented Text as Heterogeneous Information Network (HIN) datasets
-
+# A [text-to-network representation](https://github.com/cgraywang/TextHIN) based datasets
 
 # Data format:
 
