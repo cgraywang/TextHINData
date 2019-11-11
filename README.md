@@ -53,16 +53,11 @@ Format:
         
         same as 20NG.hin.zip
 
-## Usage:
-  
-  Unzip the according dataset.
-
-
 # Construction details:
 
   Please refer to the following papers.
   
-# How to Use the Text based Heterogeneous Information Network Datasets:
+# How to use the text-to-network datasets:
 We released our [[source code]](https://github.com/cgraywang/TextHIN) for the "Knowsim: A document similarity measure on structured heterogeneous information networks". Other source code would be released.
 
 ## References:
