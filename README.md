@@ -1,4 +1,4 @@
-# A [text-to-network representation](https://github.com/cgraywang/TextHIN) based datasets
+# A [text-to-network representation](https://github.com/cgraywang/TextHIN) based dataset
 
 ## 20NG.data.zip: 20 newsgroups dataset
 
