@@ -1,7 +1,5 @@
 # A [text-to-network representation](https://github.com/cgraywang/TextHIN) based datasets
 
-# Data format:
-
 ## 20NG.data.zip: 20 newsgroups dataset
 
 Format:
@@ -53,11 +51,11 @@ Format:
         
         same as 20NG.hin.zip
 
-# Construction details:
+## Construction details:
 
   Please refer to the following papers.
   
-# How to use the text-to-network datasets:
+## How to use:
 We released our [[source code]](https://github.com/cgraywang/TextHIN) for the "Knowsim: A document similarity measure on structured heterogeneous information networks". Other source code would be released.
 
 ## References:
